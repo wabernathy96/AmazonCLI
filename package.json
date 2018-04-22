@@ -1,0 +1,25 @@
+{
+  "name": "AmazonCLI",
+  "version": "1.0.0",
+  "description": "A command-line retail store",
+  "main": "bAmazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wabernathy96/AmazonCLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wabernathy96/AmazonCLI/issues"
+  },
+  "homepage": "https://github.com/wabernathy96/AmazonCLI#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
