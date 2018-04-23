@@ -20,6 +20,8 @@
   "dependencies": {
     "cli-table": "^0.3.1",
     "inquirer": "^5.2.0",
-    "mysql": "^2.15.0"
+    "mysql": "^2.15.0",
+    "npm": "^5.8.0",
+    "ttystudio": "0.0.16"
   }
 }
